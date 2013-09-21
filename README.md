@@ -1,4 +1,6 @@
 minicurso
 =========
 
-minicurso cesumar
+#minicurso Unicesumar
+
+criando aplicações com PHP
